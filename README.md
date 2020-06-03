@@ -1,4 +1,4 @@
-1. Listagem de produtos
+#1. Listagem de produtos
 Você deve criar uma listagem de produtos que devem ser consultados através da API do Mercado Livre.
 
 Você deve utilizar o endpoint:
